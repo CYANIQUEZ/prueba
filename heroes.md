@@ -1,0 +1,4 @@
+amigo
+enemigo
+local 
+super
